@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main- Serves as the entry point for the program
- * Return: By default returns zero if no erros otherwise returns non-zero value.
+ * main - prints the phrase "Programming is like building a multilingual puzzle"
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
